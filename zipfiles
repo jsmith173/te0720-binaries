@@ -1,0 +1,1 @@
+zip image.zip BOOT.BIN $TLE/images/linux/image.ub
