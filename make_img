@@ -1,1 +1,2 @@
+cp $TLE/images/linux/image.ub image.ub
 petalinux-package --force --boot --fsbl fsbl.elf --fpga --u-boot -o BOOT.BIN
